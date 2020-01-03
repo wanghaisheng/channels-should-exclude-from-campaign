@@ -46,25 +46,26 @@ Parenting
 
 
 
-## 1.1 automatically detect a website /channel is in chinese
+## 3.1 automatically detect a website /channel is in chinese
 
-## 1.2 mannually maintain list for excluding
-
-
+## 3.2 mannually maintain list for excluding
 
 
 
-How to Add YouTube Channels as Placement Exclusions
+
+
+## 4 How to Add YouTube Channels as Placement Exclusions
+
 First, select the campaign or ad group you’d like to apply the exclusions. Then click on the Placements report. When you are in the Placements report in Google Ads, click on the Exclusions tab at the top of the page. Then click on the blue pencil icon to edit your exclusions.
 
-exclude-placements-google-ads.png
+![](exclude-placements-google-ads.png)
 
 exclude placements google ads
 
-enter-multiple-placements.png
+![](enter-multiple-placements.png)
 
 Double check to make sure you have the correct Account, Campaign, or Ad group exclusion option selected. Then click on “Enter multiple campaigns.”
-add-youtube-placement-exclusions.png
+![](add-youtube-placement-exclusions.png)
 enter multiple placements
 
  
