@@ -17,3 +17,60 @@ http://www.clixmarketing.com/blog/2018/12/20/1000-kids-youtube-channels-to-exclu
 ## 1.1 automatically detect a website /channel is for children/kids
 
 ## 1.2 mannually maintain list for excluding
+
+
+
+
+
+## 2.1 automatically detect a website /channel is for families
+
+## 2.2 mannually maintain list for excluding
+
+excluding the content label “Content suitable to families” under settings, and a few topics for anyone trying to mitigate these types of placements.
+
+Topics for exclusion:
+
+Baby Care & Hygiene
+Children’s Literature
+Family-Oriented Games & Activities
+Nursery & Playroom
+Babies & Toddlers
+Preschool
+Baby Feeding
+Baby & Toddler Toys
+Baby Strollers & Transport
+Cartoons
+Toys
+Parenting
+
+
+
+
+## 1.1 automatically detect a website /channel is for chinese
+
+## 1.2 mannually maintain list for excluding
+
+
+
+
+
+How to Add YouTube Channels as Placement Exclusions
+First, select the campaign or ad group you’d like to apply the exclusions. Then click on the Placements report. When you are in the Placements report in Google Ads, click on the Exclusions tab at the top of the page. Then click on the blue pencil icon to edit your exclusions.
+
+exclude-placements-google-ads.png
+
+exclude placements google ads
+
+enter-multiple-placements.png
+
+Double check to make sure you have the correct Account, Campaign, or Ad group exclusion option selected. Then click on “Enter multiple campaigns.”
+add-youtube-placement-exclusions.png
+enter multiple placements
+
+ 
+
+Now you can copy and paste the list we just shared on Google Drive into Google Ads. Then remember to add the placements and also save the exclusion list.
+
+add youtube placement exclusions
+
+ 
