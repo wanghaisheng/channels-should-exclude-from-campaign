@@ -46,7 +46,7 @@ Parenting
 
 
 
-## 1.1 automatically detect a website /channel is for chinese
+## 1.1 automatically detect a website /channel is in chinese
 
 ## 1.2 mannually maintain list for excluding
 
