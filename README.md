@@ -14,6 +14,6 @@ http://www.clixmarketing.com/blog/2018/12/20/1000-kids-youtube-channels-to-exclu
 
 
 
-## automatically detect a website /channel is for children/kids
+## 1.1 automatically detect a website /channel is for children/kids
 
-## mannually maintain list for excluding
+## 1.2 mannually maintain list for excluding
