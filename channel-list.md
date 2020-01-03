@@ -1,6 +1,8 @@
 
 Instructions on how to add these channels as exclusions to your video campaigns in Google Ads can be found at bit.ly/no-more-kids-channels
 
+
+
 https://www.youtube.com/channel/UCMwS4p5XhAY9Rhqq7EGGKQA
 https://www.youtube.com/channel/UCVHO-W63u8RrXa6BAHxfLtQ
 https://www.youtube.com/user/DisneyCollectorBR
@@ -1527,3 +1529,12 @@ https://www.youtube.com/channel/UCAwIKJ84zBsiuuy9DVR13mA
 https://www.youtube.com/channel/UC0WemVy6t59SfoyGmhcYUGA
 https://www.youtube.com/channel/UCesSZSo1KtREG-gJMP-rrjw
 https://www.youtube.com/channel/UCTn45orVsFOsNZHxAJcZK5g
+
+https://www.youtube.com/channel/UCLsooMJoIpl_7ux2jvdPB-Q
+https://www.youtube.com/channel/UCoookXUzPciGrEZEXmh4Jjg
+https://www.youtube.com/channel/UC1aLdPsHl5R81q4Ga0YBkBw
+https://www.youtube.com/channel/UCAOtE1V7Ots4DjM8JLlrYgg
+https://www.youtube.com/channel/UC4NALVCmcmL5ntpV0thoH6w
+https://www.youtube.com/channel/UCKAqou7V9FAWXpZd9xtOg3Q
+https://www.youtube.com/channel/UCbCmjCuTUZos6Inko4u57UQ
+https://www.youtube.com/channel/UC5PYHgAzJ1wLEidB58SK6Xw
